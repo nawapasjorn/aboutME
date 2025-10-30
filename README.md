@@ -28,7 +28,7 @@
     <h1 style="color: #2e4a7d;">Hi! I'm Nawapas Jornpagdee</h1>
     <p>My nickname is <b>new</b>.</p>
 
-    <img src="IMG_0329.jpg" alt="Photo of ME" width="300" style="border-radius: 10px; border: 2px solid #ccc;">
+    <img src="IMG_0329.JPG" alt="Photo of ME" width="300" style="border-radius: 10px; border: 2px solid #ccc;">
 
     <h2 style="color: #2e4a7d;">About Me</h2>
     <p>I am an engineering student at <b>Chulalongkorn University</b>.</p>

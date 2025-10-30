@@ -1,7 +1,5 @@
 # aboutME
-test. dont even know is it gonna work out!
 
-[justbore.html](https://github.com/user-attachments/files/23234581/justbore.html)
 <!DOCTYPE html>
 <html>
   <head>
@@ -60,4 +58,3 @@ test. dont even know is it gonna work out!
     <p style="font-size: 12px; color: gray;">© 2025 Nawapas Jornpagdee</p>
   </body>
 </html>
-![IMG_0329](https://github.com/user-attachments/assets/c189c3fb-98a6-4d07-a98c-420d64e69a61)

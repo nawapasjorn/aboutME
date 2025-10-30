@@ -6,7 +6,7 @@
     <title>About Me!</title>
     <script>
       function showFunFact() {
-        alert("Fun fact: I once stayed up all night finishing a novel and still went to class the next morning!");
+        alert("Fun fact: I once stayed up all night finishing a novel and still can go to class the next morning!");
       }
 
       // greeting animation
@@ -29,7 +29,7 @@
     <h1 style="color: #2e4a7d;">Hi! I'm Nawapas Jornpagdee</h1>
     <p>My nickname is <b>new</b>.</p>
 
-    <img src="IMG_0329.jpg" alt="Photo of Nawapas Jornpagdee" width="300" style="border-radius: 10px; border: 2px solid #ccc;">
+    <img src="https://drive.google.com/file/d/1cEbaU2BLnFSkrDRxLYZ_SnrNzWw7Dl6T/view?usp=sharing" alt="Photo of ME" width="300" style="border-radius: 10px; border: 2px solid #ccc;">
 
     <h2 style="color: #2e4a7d;">About Me</h2>
     <p>I am an engineering student at <b>Chulalongkorn University</b>.</p>
